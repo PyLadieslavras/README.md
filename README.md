@@ -28,7 +28,7 @@ Você pode encontrar nosso guia completo em formato PDF aqui:
 
 ## Como entrar?
 Decidiu que quer ser uma PyLady? 
-1. Entre em contato pelo nosso Instagram: [@pyladieslavras]
+1. Entre em contato pelo nosso Instagram: [@pyladieslavras](https://www.instagram.com/pyladieslavras/)
 2. Participe da nossa próxima reunião aberta!
 
 <p align="center">Made with 💜 by PyLadies Lavras</p>
