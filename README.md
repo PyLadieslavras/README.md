@@ -24,7 +24,7 @@ Para quem quer "tocar o barco" e desenvolver habilidades de liderança e gestão
 
 ## Documentação e Materiais
 Você pode encontrar nosso guia completo em formato PDF aqui:
-**[Baixar PDF Informativo para Calouras](./guia-pyladies-lavras.pdf)**
+**[Baixar PDF Informativo para Calouras](https://github.com/PyLadieslavras/README.md/blob/main/Conhe%C3%A7a%20a%20comunidade%20PyLadies%20Lavras.pdf)**
 
 ## Como entrar?
 Decidiu que quer ser uma PyLady? 
